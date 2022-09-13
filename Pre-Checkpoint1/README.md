@@ -1,9 +1,9 @@
 # Pre-Checkpoint1 Submission
 
-- **COURSE INFORMATION: CSN400 Computer Systems Project**
+- **COURSE INFORMATION: CSN400 Computer Systems Projects**
 - **STUDENT’S NAME: Sheena Smith**
-- **STUDENT'S NUMBER: 1234567**
-- **GITHUB USER_ID: museneca-1234567**
+- **STUDENT'S NUMBER: 061890125*
+- **GITHUB USER_ID: myseneca-61890125**
 - **TEACHER’S NAME: Atoosa Nasiri**
 
 
